@@ -4,7 +4,6 @@
   </a>
 </p>
 
-# Romy Skills
 
 Free, open-source [Agent Skills](https://agentskills.io/) for solo founders who
 have built something and are now staring at the less photogenic part: finding
