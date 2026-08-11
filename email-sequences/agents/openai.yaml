@@ -1,0 +1,4 @@
+interface:
+  display_name: "Email Sequences"
+  short_description: "Plan and draft useful email sequences"
+  default_prompt: "Use $email-sequences to plan and draft my email sequence."

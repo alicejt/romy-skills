@@ -22,6 +22,12 @@
     },
     "image-art-direction": {
       "targets": {"codex": true, "claude_code": true, "claude_desktop": true}
+    },
+    "brand-visual-system": {
+      "targets": {"codex": true, "claude_code": true, "claude_desktop": true}
+    },
+    "email-sequences": {
+      "targets": {"codex": true, "claude_code": true, "claude_desktop": true}
     }
   }
 }

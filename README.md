@@ -63,6 +63,8 @@ Claude Desktop:
 | [`daily-signal-brief`](./daily-signal-brief) | collect the sources you actually pay attention to, separate signal from repetition, and find a content angle worth writing. |
 | [`weekly-build-in-public`](./weekly-build-in-public) | turn a week of real work into a source-aware growth handoff and ready-to-review X and LinkedIn drafts. It never publishes anything. |
 | [`image-art-direction`](./image-art-direction) | set a private visual direction, then create prompts and images where the agent has an image tool. |
+| [`brand-visual-system`](./brand-visual-system) | turn visual references and practical constraints into a private, usable brand system. |
+| [`email-sequences`](./email-sequences) | plan and draft a private email sequence around a real audience, trigger, offer, and proof. |
 
 ## A small example
 

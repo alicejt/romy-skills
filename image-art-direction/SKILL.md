@@ -19,12 +19,17 @@ and the job the images need to do. Do not start from a generic mood board.
 
 ## Find or create the visual profile
 
-Look for `visual-direction-profile.md` in the working directory or a
-user-specified private location. Never write it into this public skill folder or
-another shared repository.
+Look for `brand-visual-profile.md` and `visual-direction-profile.md` in the
+working directory or a user-specified private location. Never write either into
+this public skill folder or another shared repository.
 
-If a profile exists, read it before making concepts. Treat it as the authority
-unless the user changes it.
+When a `brand-visual-profile.md` exists, use its approved palette, typography,
+imagery rules, protected assets, and avoid list as the foundation. A
+`visual-direction-profile.md` may add image-specific choices for a particular
+person or project.
+
+If either profile exists, read it before making concepts. Treat approved rules
+as the authority unless the user changes them.
 
 If no profile exists, explain that the first run sets the visual direction, then
 run the interview and calibration stage below. Ask where the approved profile

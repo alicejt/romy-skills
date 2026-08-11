@@ -1,0 +1,4 @@
+interface:
+  display_name: "Brand Visual System"
+  short_description: "Build a usable private visual system"
+  default_prompt: "Use $brand-visual-system to establish my brand's visual system."
