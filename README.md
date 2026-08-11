@@ -56,10 +56,10 @@ Claude Desktop:
 
 | Skill | Use it when you want to... |
 | --- | --- |
-| [`personal-voice`](./personal-voice) | interview yourself properly, build a private voice profile, and stop AI writing from sanding off the bits that make it yours. |
-| [`linkedin-post`](./linkedin-post) | turn a real observation, source, or piece of work into a LinkedIn post that sounds like the person publishing it. |
+| [`personal-voice`](./personal-voice) | interview yourself properly, build a private voice profile, and guard against AI slop. |
+| [`linkedin-post`](./linkedin-post) | turn a real observation, source, or piece of work into a LinkedIn post that sounds like the person publishing it (you). |
 | [`tweet-growth`](./tweet-growth) | write X posts around a specific audience and goal, whether that's a useful reply, a little more attention, or someone clicking through. |
-| [`geo-optimised-content`](./geo-optimised-content) | write a source-backed article that's easier for people and search systems to understand, without pretending anyone can promise an AI citation. |
+| [`geo-optimised-content`](./geo-optimised-content) | write a source-backed article that's easier for people and search systems to understand. |
 | [`daily-signal-brief`](./daily-signal-brief) | collect the sources you actually pay attention to, separate signal from repetition, and find a content angle worth writing. |
 
 ## A small example
