@@ -1,9 +1,13 @@
 <p align="center">
-  <a href="https://romy.is/skills?utm_source=github&utm_medium=readme&utm_campaign=gtm-skills">
+  <a href="https://romy.is?utm_source=github&utm_medium=readme&utm_campaign=romy-skills">
     <img src=".github/assets/romy-skills-banner.png" alt="Romy Skills - Agent Skills for the bit after shipping" width="100%">
   </a>
 </p>
 
+
+An open-source collection of Agent Skills from Romy for solo founders doing
+their own marketing: personal voice, LinkedIn, X, GEO-optimized content, and
+daily research.
 
 Free, open-source [Agent Skills](https://agentskills.io/) for solo founders who
 have built something and are now staring at the less photogenic part: finding
@@ -19,8 +23,8 @@ change.
 Clone the repo, then choose your agent:
 
 ```sh
-git clone https://github.com/alicejt/gtm-skills.git
-cd gtm-skills
+git clone https://github.com/alicejt/romy-skills.git
+cd romy-skills
 
 # Codex
 ./scripts/install-codex.sh
@@ -82,7 +86,7 @@ afternoon.
 
 ## Why I made them public
 
-I'm Alice Bull. I'm building [Romy](https://romy.is/skills?utm_source=github&utm_medium=readme&utm_campaign=gtm-skills), a go-to-market operating system for solo founders who have built a product and need to get it in front of people.
+I'm Alice Bull. I'm building [Romy](https://romy.is?utm_source=github&utm_medium=readme&utm_campaign=romy-skills), a go-to-market operating system for solo founders who have built a product and need to get it in front of people.
 
 Some of this work has been done by hand for years: reading what customers say,
 working out what they meant, choosing a useful angle, then trying to write
@@ -90,7 +94,7 @@ something that does not sound like a LinkedIn post about itself. The skills are
 the reusable parts. They are free because a founder should be able to see the
 working before deciding whether the rest of Romy is useful.
 
-These are the portable bits of the work. [Romy](https://romy.is/skills?utm_source=github&utm_medium=readme&utm_campaign=gtm-skills) is where I'm building the system around them.
+These are the portable bits of the work. [Romy](https://romy.is?utm_source=github&utm_medium=readme&utm_campaign=romy-skills) is where I'm building the system around them.
 
 ## Quality standard
 
@@ -98,10 +102,10 @@ Each skill should say what it does, when to use it, what it touches, and where
 its limits are. Private context stays private. Claims need sources. Drafts need
 a human being at the end of the chain.
 
-If one does not do that, please [open an issue](https://github.com/alicejt/gtm-skills/issues). A useful bug report is much more helpful than polite applause.
+If one does not do that, please [open an issue](https://github.com/alicejt/romy-skills/issues). A useful bug report is much more helpful than polite applause.
 
 ## Contributing
 
 Ideas, examples, and reports of where a skill falls over are welcome in
-[Issues](https://github.com/alicejt/gtm-skills/issues). The project is available
+[Issues](https://github.com/alicejt/romy-skills/issues). The project is available
 under the [MIT License](./LICENSE).
