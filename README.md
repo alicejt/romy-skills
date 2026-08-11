@@ -90,15 +90,9 @@ afternoon.
 
 ## Why I made them public
 
-I'm Alice Bull. I'm building [Romy](https://romy.is?utm_source=github&utm_medium=readme&utm_campaign=romy-skills), a go-to-market operating system for solo founders who've built a product and need to get it in front of people.
+I'm Alice, and I'm building [Romy](https://romy.is/?utm_source=github&utm_medium=readme&utm_campaign=romy-skills), a go-to-market operating system for solo founders who've built a product and need to get it in front of people.
 
-I've done some of this work by hand for years: reading what customers say,
-working out what they meant, choosing a useful angle, then trying to write
-something that doesn't sound like a LinkedIn post about itself. They're the
-reusable parts. They're free because founders should be able to see the working
-before deciding whether the rest of Romy is useful.
-
-They're the portable bits of the work. [Romy](https://romy.is?utm_source=github&utm_medium=readme&utm_campaign=romy-skills) is where I'm building the system around them.
+I've done this work by hand for 20 years - taking a product or a brand and growing it online - and Romy is the platform that does all this work for you. These Skills are the portable and reusable parts, which I've made free because founders should be able to grow their businesses without a deep understanding of marketing.
 
 ## Quality standard
 
