@@ -16,6 +16,9 @@
     "daily-signal-brief": {
       "local_default": false,
       "targets": {"codex": true, "claude_code": true, "claude_desktop": false}
+    },
+    "weekly-build-in-public": {
+      "targets": {"codex": true, "claude_code": true, "claude_desktop": true}
     }
   }
 }

@@ -61,6 +61,7 @@ Claude Desktop:
 | [`tweet-growth`](./tweet-growth) | write X posts around a specific audience and goal, whether that's a useful reply, a little more attention, or someone clicking through. |
 | [`geo-optimised-content`](./geo-optimised-content) | write a source-backed article that's easier for people and search systems to understand. |
 | [`daily-signal-brief`](./daily-signal-brief) | collect the sources you actually pay attention to, separate signal from repetition, and find a content angle worth writing. |
+| [`weekly-build-in-public`](./weekly-build-in-public) | turn a week of real work into a source-aware growth handoff and ready-to-review X and LinkedIn drafts. It never publishes anything. |
 
 ## A small example
 

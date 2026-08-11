@@ -1,0 +1,4 @@
+interface:
+  display_name: "Weekly Build in Public"
+  short_description: "Collect weekly growth evidence and draft social posts"
+  default_prompt: "Set up my weekly build-in-public reporting workflow."
