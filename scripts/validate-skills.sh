@@ -15,4 +15,13 @@ for skill_dir in "$root"/*; do
 done
 
 python3 -m json.tool "$root/skills-manifest.json" >/dev/null
+
+if rg -n -i \
+  -e '\b(do|does|did|is|are|was|were|will|would|should|could|have|has|had) not\b' \
+  -e '\b(they|we|you|it|that|there|here|who|what|i) (are|is|have|has|had|will|would|should|could)\b' \
+  "$root/README.md"; then
+  printf '%s\n' 'README contains an uncontracted form. Complete the Alice ToV contraction pass.' >&2
+  exit 1
+fi
+
 printf 'Validated %s GTM skills.\n' "$count"
