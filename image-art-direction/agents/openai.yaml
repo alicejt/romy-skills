@@ -1,0 +1,4 @@
+interface:
+  display_name: "Image Art Direction"
+  short_description: "Set a visual direction, then make images"
+  default_prompt: "Use $image-art-direction to set my visual direction and create image concepts."

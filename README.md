@@ -62,6 +62,7 @@ Claude Desktop:
 | [`geo-optimised-content`](./geo-optimised-content) | write a source-backed article that's easier for people and search systems to understand. |
 | [`daily-signal-brief`](./daily-signal-brief) | collect the sources you actually pay attention to, separate signal from repetition, and find a content angle worth writing. |
 | [`weekly-build-in-public`](./weekly-build-in-public) | turn a week of real work into a source-aware growth handoff and ready-to-review X and LinkedIn drafts. It never publishes anything. |
+| [`image-art-direction`](./image-art-direction) | set a private visual direction, then create prompts and images where the agent has an image tool. |
 
 ## A small example
 

@@ -19,6 +19,9 @@
     },
     "weekly-build-in-public": {
       "targets": {"codex": true, "claude_code": true, "claude_desktop": true}
+    },
+    "image-art-direction": {
+      "targets": {"codex": true, "claude_code": true, "claude_desktop": true}
     }
   }
 }
