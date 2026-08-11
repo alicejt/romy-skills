@@ -71,14 +71,10 @@ Claude Desktop:
 The input can be unglamorous:
 
 ```text
-I spent three hours rewriting a homepage headline because it was trying to
-explain the whole product. The useful version was one sentence about who's
-the problem and what happens after they ship.
+I want to write a blog post about that stat I read somewhere, can't remember where, that SaaS spend is increasing yet number of tools used within a company is decreasing. I want to write a blog post about why that gives SaaS builders a good opportunity to create vertical tools in 2026 - the spend is growing yet narrowing.
 ```
 
-Keep the specificity, work out whether there's a view in it, and make a draft
-that still sounds like a person who's just had that mildly irritating
-afternoon.
+The skills will keep the specificity, find out what you meant, work out whether there's a view in it, and make a draft that sounds like you - but a non-confused version.
 
 ## What these skills won't do
 
@@ -96,7 +92,7 @@ I've done this work by hand for 20 years - taking a product or a brand and growi
 
 ## Quality standard
 
-Each skill needs to say what it does, when to use it, what it touches, and where
+Each skill says what it does, when to use it, what it touches, and where
 its limits are. Private context stays private. Claims need sources. Drafts need
 a human being at the end of the chain.
 
