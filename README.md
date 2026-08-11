@@ -71,7 +71,9 @@ Claude Desktop:
 The input can be unglamorous:
 
 ```text
-I want to write a blog post about that stat I read somewhere, can't remember where, that SaaS spend is increasing yet number of tools used within a company is decreasing. I want to write a blog post about why that gives SaaS builders a good opportunity to create vertical tools in 2026 - the spend is growing yet narrowing.
+I want to write a blog post about that stat I read somewhere, can't remember where, that SaaS spend is increasing 
+yet number of tools used within a company is decreasing. I want to say why that gives SaaS builders a good 
+opportunity to create vertical tools in 2026 - the spend is growing yet narrowing.
 ```
 
 The skills will keep the specificity, find out what you meant, work out whether there's a view in it, and make a draft that sounds like you - but a non-confused version.
