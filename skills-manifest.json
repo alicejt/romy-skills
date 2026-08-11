@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "skills": {
+    "personal-voice": {
+      "targets": {"codex": true, "claude_code": true, "claude_desktop": true}
+    },
+    "linkedin-post": {
+      "targets": {"codex": true, "claude_code": true, "claude_desktop": true}
+    },
+    "tweet-growth": {
+      "targets": {"codex": true, "claude_code": true, "claude_desktop": true}
+    },
+    "geo-optimised-content": {
+      "targets": {"codex": true, "claude_code": true, "claude_desktop": true}
+    },
+    "daily-signal-brief": {
+      "local_default": false,
+      "targets": {"codex": true, "claude_code": true, "claude_desktop": false}
+    }
+  }
+}

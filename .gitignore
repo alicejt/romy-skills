@@ -1,0 +1,8 @@
+.DS_Store
+dist/
+
+# First-run interviews and production runs create local-only context.
+**/*-profile.md
+**/private/
+**/seen-log.md
+**/source-watchlist.md

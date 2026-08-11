@@ -1,0 +1,4 @@
+interface:
+  display_name: "GEO Patterns"
+  short_description: "Draft citable, voice-first GEO content"
+  default_prompt: "Use $geo-optimised-content with my approved Personal Voice profile to plan and draft a GEO-ready blog post."

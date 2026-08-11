@@ -1,0 +1,4 @@
+interface:
+  display_name: "Personal Voice"
+  short_description: "Build and use a personal voice profile without AI slop."
+  default_prompt: "Use $personal-voice to interview me, create my private voice profile, then draft or edit something."

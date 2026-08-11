@@ -1,0 +1,4 @@
+interface:
+  display_name: "Daily Signal Brief"
+  short_description: "Curate fresh signals and content angles"
+  default_prompt: "Use $daily-signal-brief to set up my private source profile and create today’s briefing."

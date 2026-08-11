@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tweet Growth"
+  short_description: "Build a voice-first X growth strategy"
+  default_prompt: "Use $tweet-growth to interview me, create my private X growth profile, then draft posts for my current goal."

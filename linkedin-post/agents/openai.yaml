@@ -1,0 +1,4 @@
+interface:
+  display_name: "LinkedIn Post"
+  short_description: "Draft voice-first LinkedIn posts"
+  default_prompt: "Use $linkedin-post with my approved Personal Voice profile to draft a LinkedIn post from these notes."
